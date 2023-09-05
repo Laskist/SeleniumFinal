@@ -6,7 +6,7 @@ import logging
 import time
 
 
-with open("HW3/config.yaml") as f:
+with open("config.yaml") as f:
     testdata = yaml.safe_load(f)
     login = testdata["login"]
     password = testdata["pass"]
