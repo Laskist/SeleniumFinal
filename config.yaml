@@ -1,0 +1,17 @@
+address: https://test-stand.gb.ru
+browser: chrome
+sleep: 1
+implicitly_wait: 3
+login: "Ivan33"
+pass: "102dc62c67"
+title: "Auto Create Post From Selenium"
+description: "WOW! Magic!"
+contest: "Its fun"
+email: "wow@gmail.com"
+message: "Test message"
+url: "https://test-stand.gb.ru/gateway/login"
+url_api: "https://test-stand.gb.ru/api/posts"
+owner_title_name: "123"
+title2: "NewPost"
+description2: "this is test new post"
+content2: "WOW!"
